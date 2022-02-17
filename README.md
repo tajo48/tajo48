@@ -12,7 +12,7 @@
         <br>
         <br>
         <i>
-          I code minimalistic & efficient code.
+          I write minimalistic & efficient code.
         </i>
         <br>
         </samp><br>
