@@ -32,7 +32,7 @@
 <!--     <a href="https://t.me/" target="_blank">telegram</a> &#8226; -->
     <a href="https://discord.com/users/419560454688473108" target="_blank">discord</a> &#8226;
 <!--     <a href="https://www.reddit.com/user/" target="_blank">reddit</a> &#8226; -->
-    <a href="mailto:tajo161626@gmail.com" target="_blank">email</a>
+    <a href="mailto:tajo161626@gmail.com" target="_blank">email</a> &#8226;
     <a href="https://www.qrz.com/db/SQ9PIO" target="_blank">QRZ</a>
     </samp>
 </p>
