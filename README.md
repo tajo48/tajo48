@@ -14,6 +14,7 @@
         <i>
           I write minimalistic & efficient code.
         </i>
+        <br>
         <i>
           SQ9PIO is my HAM radio callsign
         </i>
