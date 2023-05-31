@@ -46,19 +46,6 @@
 <!-- Github Stats -->
 <p align="center">
     <samp>
-<details>
-  <summary>My Profile Stats</summary>
-  <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=tajo48&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"/>
-  <br/>
-</details>
-
-<details> 
-  <summary>My Most Used Languages</summary>
-  <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=tajo48&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"/>
-  <br/>
-</details>
 <details> 
   <summary>Codewars & Profile views</summary>
   <br/>
