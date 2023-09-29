@@ -7,7 +7,7 @@
           <b>
           Hello There
         <br>
-          I'm Tajo48, a Student, and Linux <s>femboy</s> fanboy.
+          I'm Tajo48, a Student, and Linux  fanboy.
           </b>
         <br>
         <br>
@@ -36,7 +36,7 @@
 <!--     <a href="https://t.me/" target="_blank">telegram</a> &#8226; -->
     <a href="https://discord.com/users/419560454688473108" target="_blank">discord</a> &#8226;
 <!--     <a href="https://www.reddit.com/user/" target="_blank">reddit</a> &#8226; -->
-    <a href="mailto:tajo161626@gmail.com" target="_blank">email</a> &#8226;
+    <a href="mailto:tajo48@proton.me" target="_blank">email</a> &#8226;
     <a href="https://www.qrz.com/db/SQ9PIO" target="_blank">QRZ</a>
     </samp>
 </p>
@@ -47,11 +47,9 @@
 <p align="center">
     <samp>
 <details> 
-  <summary>Codewars & Profile views</summary>
+  <summary>Codewars</summary>
   <br/>
           <img alt="Codewars" src="https://www.codewars.com/users/tajo48/badges/micro"/>
-          <img alt="Profile views" src="https://gpvc.arturio.dev/tajo48"/>
-  <br/>
 </details>
 
 </p>
