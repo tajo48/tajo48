@@ -7,7 +7,7 @@
           <b>
           Hello There
         <br>
-          I'm Tajo48, a Student, and Linux  fanboy.
+          I'm Tajo48, a Student and Linux fanboy.
           </b>
         <br>
         <br>
